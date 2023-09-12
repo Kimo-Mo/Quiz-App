@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Choose the correct HTML element for the largest heading:",
+    "answer_1": "<h1>",
+    "answer_2": "<heading>",
+    "answer_3": "<head>",
+    "answer_4": "<h6>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Which HTML tag is used to create a hyperlink?",
+    "answer_1": "<link>",
+    "answer_2": "<a>",
+    "answer_3": "<href>",
+    "answer_4": "<url>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hypertext Transfer Protocol Language",
+    "answer_2": "Hyperlink and Text Markup Language",
+    "answer_3": "Hypertext Markup Language",
+    "answer_4": "Highly Typed Meta Language",
+    "right_answer": "Hypertext Markup Language"
+  },
+  {
+    "title": "Which HTML tag is used for creating an unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "What is the purpose of the HTML <meta> tag?",
+    "answer_1": "To define a metadata element for a web page",
+    "answer_2": "To create a new paragraph",
+    "answer_3": "To specify the main content of the page",
+    "answer_4": "To define a hyperlink",
+    "right_answer": "To define a metadata element for a web page"
+  },
+  {
+    "title": "Which HTML tag is used for inserting a line break?",
+    "answer_1": "<break>",
+    "answer_2": "<lb>",
+    "answer_3": "<newline>",
+    "answer_4": "<br>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting an image?",
+    "answer_1": "<image>",
+    "answer_2": "<picture>",
+    "answer_3": "<img>",
+    "answer_4": "<figure>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "Which HTML tag is used to define a table?",
+    "answer_1": "<tabular>",
+    "answer_2": "<table>",
+    "answer_3": "<t>",
+    "answer_4": "<tbl>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "What is the purpose of the HTML <head> tag?",
+    "answer_1": "To define the main content of the page",
+    "answer_2": "To create a header section",
+    "answer_3": "To specify the page title and include metadata",
+    "answer_4": "To define a footer section",
+    "right_answer": "To specify the page title and include metadata"
+  },
+  {
+    "title": "Which HTML tag is used to define a form?",
+    "answer_1": "<input>",
+    "answer_2": "<form>",
+    "answer_3": "<submit>",
+    "answer_4": "<button>",
+    "right_answer": "<form>"
+  }
+]
