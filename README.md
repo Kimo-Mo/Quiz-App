@@ -1,5 +1,5 @@
 # Quiz-App
-Made with Html , Css and JavaScript
+Made with Html , SCSS and JavaScript
 there are multiple questions and 4 answer choices for each questions.
 When you select any one answer the the answer button's background color will become dark blue.
 After selecting one answer you can change the answer berore the time ended,
