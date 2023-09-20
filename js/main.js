@@ -29,7 +29,7 @@ async function getQuestions(lang) {
       createBullets(QCount);
       handleBullets(index);
       addQData(data[index], QCount, index);
-      countDown(5, QCount, index);
+      countDown(10, QCount, index);
       submitBtn.addEventListener("click", () => {
         let correct = data[index].right_answer;
         index++;
