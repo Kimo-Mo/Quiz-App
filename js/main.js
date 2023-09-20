@@ -40,7 +40,7 @@ async function getQuestions(lang) {
         addQData(data[index], QCount, index);
         handleBullets(index);
         clearInterval(countDownInterval);
-        countDown(5, QCount, index);
+        countDown(10, QCount, index);
         showResult(QCount, index, rightAnswers);
       });
     }
